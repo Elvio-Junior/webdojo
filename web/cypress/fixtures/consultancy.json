@@ -1,0 +1,48 @@
+{
+  "personal": {
+    "name": "Fernando Papito",
+    "email": "papito@webdojo.com",
+    "phone": "11 99999-1111",
+    "consultancyType": "individual",
+    "personType": "CPF",
+    "document": "76986668082",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/lorem-ipsum.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriveIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Fernando Papito",
+    "email": "papito@webdojo.com",
+    "phone": "11 99999-1111",
+    "consultancyType": "In Company",
+    "personType": "CNPJ",
+    "document": "12366739000109",
+    "discoveryChannels": [
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/lorem-ipsum.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "WebDriveIO",
+      "Playwright",
+      "Robot Framework"
+    ],
+    "terms": true
+  }
+}
